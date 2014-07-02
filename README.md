@@ -1,8 +1,8 @@
 DNSforward4MS
 =============
 
-dnsforward for M$ windows platform  
-DNSforword的Windows平台编译版本  
+dnsforwarder for M$ windows platform  
+DNSforworder的Windows平台编译版本  
 
 包含有  
 > 可以缩小至通知栏的启动器(此处感谢GoAgent(taskbar)项目)  
