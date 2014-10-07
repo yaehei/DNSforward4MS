@@ -2,16 +2,16 @@ DNSforward4MS
 =============
 
 dnsforwarder for M$ windows platform  
-`DNSforworder`çš„Windowså¹³å°ç¼–è¯‘ç‰ˆæœ¬  
+`DNSforworder`µÄWindowsÆ½Ì¨±àÒë°æ±¾  
 
-åŒ…å«æœ‰  
-> å¯ä»¥ç¼©å°è‡³é€šçŸ¥æ çš„å¯åŠ¨å™¨(æ­¤å¤„æ„Ÿè°¢`GoAgent(taskbar)`é¡¹ç›®)  
-> ä¸€ä»½é…ç½®å¥½çš„é…ç½®æ¡£  
-> æ¸…ç†DNSæ±¡æŸ“çš„è„šæœ¬
+°üº¬ÓĞ  
+> ¿ÉÒÔËõĞ¡ÖÁÍ¨ÖªÀ¸µÄÆô¶¯Æ÷(´Ë´¦¸ĞĞ»`GoAgent(taskbar)`ÏîÄ¿)  
+> Ò»·İÅäÖÃºÃµÄÅäÖÃµµ  
+> ÇåÀíDNSÎÛÈ¾µÄ½Å±¾
   
-ä½¿ç”¨æ–¹æ³•  
-> ç®€æ˜“ä½¿ç”¨è¯¦è§`simple_usage.jpg`æ–‡ä»¶ä¸­çš„è¯´æ˜  
-> æ›´å¤šä½¿ç”¨æŠ€å·§åŠŸèƒ½è¯¦è§`dnsforwarder.config`ä¸­ç›¸åº”æ³¨é‡Š  
+Ê¹ÓÃ·½·¨  
+> ¼òÒ×Ê¹ÓÃÏê¼û`simple_usage.jpg`ÎÄ¼şÖĞµÄËµÃ÷  
+> ¸ü¶àÊ¹ÓÃ¼¼ÇÉ¹¦ÄÜÏê¼û`dnsforwarder.config`ÖĞÏàÓ¦×¢ÊÍ  
 
 [Sg4Dylan](http://about.me/sg4dylan)  
 2014

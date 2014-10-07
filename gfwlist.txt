@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: F/rCuc+TjZjeIKdFWLxa5w
+! Checksum: +K5/NPHFJyeCNCv2YTOVBw
 ! Expires: 6h
-! Last Modified: Tue, 19 Aug 2014 15:27:45 +0800
+! Last Modified: Sat, 13 Sep 2014 09:36:25 +0800
 ! HomePage: https://autoproxy-gfwlist.googlecode.com/
 
 !--------------------Restricted--------------------
@@ -621,7 +621,7 @@ disp.cc
 djangosnippets.org
 ||dl-laby.jp
 ||dlsite.com
-.docstoc.com/docs
+||dnscrypt.org
 .dojin.com
 .dok-forum.net
 ||dolc.de
@@ -653,6 +653,7 @@ dpp.org.tw
 ||dtiblog.com
 ||dtic.mil
 dtiserv2.com
+||duckduckgo.com
 .duckload.com/download
 ||duckmylife.com
 .duihua.org
@@ -1846,7 +1847,6 @@ forum.idsam.com
 .idv.tw
 ieasynews.net
 .ied2k.net
-||if-not-true-then-false.com
 ifanqiang.com
 .ifanr.com/857
 .ifcss.org
@@ -3743,6 +3743,8 @@ xvedios.com
 ||xxxx.com.au
 xys.org
 xysblogs.org
+xyy69.com
+xyy69.info
 
 !--------------------------YY--------------------------
 page.bid.yahoo.com
@@ -3805,7 +3807,7 @@ share.youthwant.com.tw
 topic.youthwant.com.tw
 .youporn.com
 ||youporn.com
-youtu.be
+||youtu.be
 .youtube.com
 ||youtube.com
 !--/^https?:\/\/[^\/]+youtube\.com/
